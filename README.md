@@ -12,7 +12,7 @@ angle of inclination of the robot, how to use PID to
 make the robot stay balanced. An ultrasonic
 rangefinder is also added to the robot which prevents
 it from banging into obstacles as it wanders around.
-
+**
 I bought most of these parts from aliexpress but you can find them in any other electronics store as well.
 
 1. Arduino Pro Mini
